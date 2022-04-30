@@ -1,0 +1,55 @@
+header {
+    background-color: lime;
+    color: white;
+    text-align: center;
+    box-shadow: 0px 5px 50px lime;
+    border-radius: 10px;
+}
+body{
+    background:black;
+}
+p {
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-size: cover;
+}
+
+footer {
+    text-shadow: 0px 5px 10px black;
+    text-align: center;
+    margin-bottom:10;
+    background-color:cyan;
+    text-align: center;
+    position: fixed;
+    position:absolute;
+    bottom:0;
+    width:900px;
+    height:30px;
+    margin-left: 50px;
+}
+
+button{
+    background-color: cyan;
+    box-shadow: 0px 10px 50px cyan;
+    border-color: cyan;
+    color:red;
+    text-shadow: 0px 10px 10px black;
+    display: block;
+    margin:0 auto;
+}
+
+button:hover{
+    background-color: cyan;
+    box-shadow: 0px 10px 50px cyan;
+    border-color: cyan;
+    color:red;
+    text-shadow: 0px 10px 10px black;
+    transform: translate3d(360deg);
+    display: block;
+    margin:0 auto;
+}
+
+
